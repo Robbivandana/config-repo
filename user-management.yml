@@ -1,4 +1,2 @@
-server:
-  port: 8081
 custom:
-  message: Hello from Spring Cloud Config!
+  message: Hello from Config Server for User Management!
